@@ -1,0 +1,28 @@
+c:\users\alfredo\documents\visual studio 2010\Projects\ExportDatatoExcel\ExportDatatoExcel\bin\Debug\GenerallPayroll.accdb
+c:\users\alfredo\documents\visual studio 2010\Projects\ExportDatatoExcel\ExportDatatoExcel\bin\Debug\ExportDatatoExcel.exe.config
+c:\users\alfredo\documents\visual studio 2010\Projects\ExportDatatoExcel\ExportDatatoExcel\bin\Debug\ExportDatatoExcel.exe
+c:\users\alfredo\documents\visual studio 2010\Projects\ExportDatatoExcel\ExportDatatoExcel\bin\Debug\ExportDatatoExcel.pdb
+c:\users\alfredo\documents\visual studio 2010\Projects\ExportDatatoExcel\ExportDatatoExcel\bin\Debug\ExportDatatoExcel.xml
+c:\users\alfredo\documents\visual studio 2010\Projects\ExportDatatoExcel\ExportDatatoExcel\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\alfredo\documents\visual studio 2010\Projects\ExportDatatoExcel\ExportDatatoExcel\obj\x86\Debug\ExportDatatoExcel.vbproj.ResolveComReference.cache
+c:\users\alfredo\documents\visual studio 2010\Projects\ExportDatatoExcel\ExportDatatoExcel\obj\x86\Debug\ExportDatatoExcel.frmgenerate.resources
+c:\users\alfredo\documents\visual studio 2010\Projects\ExportDatatoExcel\ExportDatatoExcel\obj\x86\Debug\ExportDatatoExcel.Resources.resources
+c:\users\alfredo\documents\visual studio 2010\Projects\ExportDatatoExcel\ExportDatatoExcel\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\alfredo\documents\visual studio 2010\Projects\ExportDatatoExcel\ExportDatatoExcel\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\alfredo\documents\visual studio 2010\Projects\ExportDatatoExcel\ExportDatatoExcel\obj\x86\Debug\ExportDatatoExcel.exe
+c:\users\alfredo\documents\visual studio 2010\Projects\ExportDatatoExcel\ExportDatatoExcel\obj\x86\Debug\ExportDatatoExcel.xml
+c:\users\alfredo\documents\visual studio 2010\Projects\ExportDatatoExcel\ExportDatatoExcel\obj\x86\Debug\ExportDatatoExcel.pdb
+C:\Users\richa\OneDrive\Desktop\MIDTERMPLANB\ExportDatatoExcel\ExportDatatoExcel\bin\Debug\GenerallPayroll.accdb
+C:\Users\richa\OneDrive\Desktop\MIDTERMPLANB\ExportDatatoExcel\ExportDatatoExcel\bin\Debug\ExportDatatoExcel.exe.config
+C:\Users\richa\OneDrive\Desktop\MIDTERMPLANB\ExportDatatoExcel\ExportDatatoExcel\bin\Debug\ExportDatatoExcel.exe
+C:\Users\richa\OneDrive\Desktop\MIDTERMPLANB\ExportDatatoExcel\ExportDatatoExcel\bin\Debug\ExportDatatoExcel.pdb
+C:\Users\richa\OneDrive\Desktop\MIDTERMPLANB\ExportDatatoExcel\ExportDatatoExcel\bin\Debug\ExportDatatoExcel.xml
+C:\Users\richa\OneDrive\Desktop\MIDTERMPLANB\ExportDatatoExcel\ExportDatatoExcel\obj\x86\Debug\ExportDatatoExcel.vbproj.AssemblyReference.cache
+C:\Users\richa\OneDrive\Desktop\MIDTERMPLANB\ExportDatatoExcel\ExportDatatoExcel\obj\x86\Debug\ExportDatatoExcel.vbproj.ResolveComReference.cache
+C:\Users\richa\OneDrive\Desktop\MIDTERMPLANB\ExportDatatoExcel\ExportDatatoExcel\obj\x86\Debug\ExportDatatoExcel.frmgenerate.resources
+C:\Users\richa\OneDrive\Desktop\MIDTERMPLANB\ExportDatatoExcel\ExportDatatoExcel\obj\x86\Debug\ExportDatatoExcel.Resources.resources
+C:\Users\richa\OneDrive\Desktop\MIDTERMPLANB\ExportDatatoExcel\ExportDatatoExcel\obj\x86\Debug\ExportDatatoExcel.vbproj.GenerateResource.cache
+C:\Users\richa\OneDrive\Desktop\MIDTERMPLANB\ExportDatatoExcel\ExportDatatoExcel\obj\x86\Debug\ExportDatatoExcel.vbproj.CoreCompileInputs.cache
+C:\Users\richa\OneDrive\Desktop\MIDTERMPLANB\ExportDatatoExcel\ExportDatatoExcel\obj\x86\Debug\ExportDatatoExcel.exe
+C:\Users\richa\OneDrive\Desktop\MIDTERMPLANB\ExportDatatoExcel\ExportDatatoExcel\obj\x86\Debug\ExportDatatoExcel.xml
+C:\Users\richa\OneDrive\Desktop\MIDTERMPLANB\ExportDatatoExcel\ExportDatatoExcel\obj\x86\Debug\ExportDatatoExcel.pdb
